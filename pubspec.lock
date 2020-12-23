@@ -177,7 +177,7 @@ packages:
     description:
       path: "."
       ref: develop
-      resolved-ref: "1e573d42d81c12f7b877ff35549ba43deea1650f"
+      resolved-ref: "42d98ad2181982559d793024b3ffbd3de4eaf743"
       url: "https://github.com/gokulsundar188/theme_module"
     source: git
     version: "0.0.1"

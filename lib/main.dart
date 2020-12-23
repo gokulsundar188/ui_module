@@ -43,12 +43,14 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(Functions().helloWorld()),
             Container(
               margin: const EdgeInsets.all(8.0),
+              height: 60,
               child: TextFormField(
                 controller: textEditingController1,
                 decoration: Themes().textFormFieldThemes.textFieldTheme(),
               ),
             ),
             Container(
+              height: 60,
               margin: const EdgeInsets.all(8.0),
               child: TextFormField(
                 decoration: Themes().textFormFieldThemes.textFieldTheme(),
