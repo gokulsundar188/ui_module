@@ -74,6 +74,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  function_module:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: develop
+      resolved-ref: "7089f51ef4adaeecf10b51abd73bcedfa5f82cb7"
+      url: "https://github.com/gokulsundar188/function_module"
+    source: git
+    version: "0.0.1"
   image:
     dependency: transitive
     description:
@@ -163,6 +172,22 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.15"
+  theme_module:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: develop
+      resolved-ref: "1e573d42d81c12f7b877ff35549ba43deea1650f"
+      url: "https://github.com/gokulsundar188/theme_module"
+    source: git
+    version: "0.0.1"
+  toast:
+    dependency: "direct main"
+    description:
+      name: toast
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.5"
   typed_data:
     dependency: transitive
     description:
